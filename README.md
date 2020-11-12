@@ -1,4 +1,5 @@
 # ActiveDirectory-PoSh-Scripts
+The intent is to gather together a few of my common PoSh scripts that I use in conjunction with generic Active Directory tasks. This may have some overlap with other areas, but I'll try to keep the scripts in this repo to specifically AD helper scripts
 
 AD-Telephone-sync.ps1
 ---------------------
