@@ -16,3 +16,7 @@ When you're needing to create a restricted meeting room for a breakout room, exe
 AD-GroupsForUser-Finder.ps1
 ---------------------------
 Locate a text file on your computer full of users e-mails and strip the e-mail to find the username in order to output a csv of all of the groups the users in that list are a part of
+
+Mass_User_EndDate_Upgrade.ps1
+------------------------------
+Grabs a list of users stored in a .csv file and updates their end dates with the given end dates.
