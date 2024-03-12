@@ -1,5 +1,5 @@
 # ActiveDirectory-PoSh-Scripts
-The intent is to gather together a few of my common PoSh scripts that I use in conjunction with generic Active Directory tasks. This may have some overlap with other areas, but I'll try to keep the scripts in this repo to specifically AD helper scripts
+The intent is to gather together a few of my common PoSh scripts that I use in conjunction with generic Active Directory tasks.
 
 AD-telephone-sync.ps1
 ---------------------
@@ -20,3 +20,11 @@ Locate a text file on your computer full of users e-mails and strip the e-mail t
 Mass_AD_User_EndDate_Update.ps1
 ------------------------------
 Grabs a list of users stored in a .csv file and updates their end dates with the given end dates.
+
+
+# Networking-PoSh-Scripts
+The intent is to gather together a few of my common PoSh scripts that I use in conjunction with generic Networking tasks.
+
+Get-Devices-on-LAN.ps1
+---------------------
+Grabs all hostnames,IPs,MACs, and vendor names of devices currently on your /24 subnet
