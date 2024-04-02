@@ -28,3 +28,7 @@ The intent is to gather together a few of my common PoSh scripts that I use in c
 Get-Devices-on-LAN.ps1
 ---------------------
 Grabs all hostnames,IPs,MACs, and vendor names of devices currently on your /24 subnet
+
+DNS Lookup.ps1
+---------------------
+Grabs all hostnames,IPs,MACs, and vendor names of devices currently on your /24 subnet
