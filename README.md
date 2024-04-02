@@ -29,6 +29,6 @@ Get-Devices-on-LAN.ps1
 ---------------------
 Grabs all hostnames,IPs,MACs, and vendor names of devices currently on your /24 subnet
 
-DNS Lookup.ps1
+UpdateGoDaddyDNS.ps1
 ---------------------
-Grabs all hostnames,IPs,MACs, and vendor names of devices currently on your /24 subnet
+Toss your domain name, API key information, and hit enter. This goes through and updates the A type @ records of your domains DNS so that you don't need a DDNS service to CNAME to. Keeps things clean.
